@@ -45,9 +45,8 @@ User can now successfully log into the system without errors.
 ![Investigation](../screenshots/ticket-001/03%20-%20AccountInvestigation.png)
 
 ### 4. Account deletion / fix
-![Resolution]
-(../screenshots/ticket-001/04%20-%20DeleteTestUserAccount.png)
-(../screenshots/Ticket-001/05%20-%20UserAccountSuccessfullyDeleted.png)
+![Resolution](../screenshots/Ticket-001/04%20-%20DeleteTestUserAccount.png)
+![AccountDeleted](../screenshots/Ticket-001/05%20-%20UserAccountSuccessfullyDeleted.png)
 
 ### 5. Final verification (optional desktop/login success)
 ![Final State](../screenshots/Ticket-001/06%20-%20UserAccountSuccessfullyAccessed.png)
